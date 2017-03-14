@@ -463,9 +463,11 @@
 "../../../OpenBlox/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 462
 "../../../OpenBlox/Content/StarterContent/Shapes/Shape_Sphere.uasset" 463
 "../../../OpenBlox/Content/StarterContent/Maps/StarterMap.umap" 464
-"../../../OpenBlox/Content/Worlds/TestWorld_BuiltData.uasset" 465
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 465
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 466
-"../../../Engine/Content/BasicShapes/Cone.uasset" 467
-"../../../Engine/Content/BasicShapes/Cube.uasset" 468
-"../../../OpenBlox/Content/Worlds/TestWorld.umap" 469
-"../../../Engine/Content/Maps/Entry.umap" 470
+"../../../Engine/Content/BasicShapes/Cube.uasset" 467
+"../../../OpenBlox/Content/Blueprints/ReplicatedCube.uasset" 468
+"../../../OpenBlox/Content/Worlds/TestWorld_BuiltData.uasset" 469
+"../../../Engine/Content/BasicShapes/Cone.uasset" 470
+"../../../OpenBlox/Content/Worlds/TestWorld.umap" 471
+"../../../Engine/Content/Maps/Entry.umap" 472
